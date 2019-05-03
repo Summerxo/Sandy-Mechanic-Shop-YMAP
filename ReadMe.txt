@@ -23,6 +23,12 @@ Note: This will take just a moment to load the file.
 Remember, if you like or enjoy this map, please hit a like!
 
 
--Summer
+
+
+
+LICENSE:
+SandyMechShop created by Summer
+This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
+
 
 
